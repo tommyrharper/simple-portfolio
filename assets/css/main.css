@@ -3167,7 +3167,7 @@ input, select, textarea {
 		}
 
 		.pagination .next:before {
-			content: '\f105';
+			/* content: '\f105'; */
 			float: right;
 			margin-left: 0.9375em;
 		}
